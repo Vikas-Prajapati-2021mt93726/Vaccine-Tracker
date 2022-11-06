@@ -8,8 +8,7 @@ Weightage: 25%
 
 Not always, individuals are able to locate their medicinal requirements in nearby stores. People with illness, senior citizens find it difficult to buy medicines in person. There are individuals who require medicines to be refilled on a regular basis monthly. We are in need of a one stop online solution for all our medical necessities. 
 Now a days getting the medicine you need is simple. You can download the easy-to-use Apps or use the web versions of app to conveniently order your medicines from anywhere, at any time. Just tap the App, upload your required medicines, and your order will be delivered anywhere in India. You can also use the healthcare app to Order/Refill Your Medicines, Consult a Doctor Online, Book Lab Tests Online, Track Your Order, Rate Items, Refer Your Friends & Earn! These key App features ensures a quick, easy & user-friendly ordering process while saving you more! An online pharmacy application directly connects suppliers of healthcare products with users who want to book medicines at the best prices. 
-
-**PROBLEM STATEMENT: **
+PROBLEM STATEMENT: 
 The healthcare application is an online web portal that directly connects doctors and suppliers of healthcare products & services with customers. It used by customers to Order/Refill Your Medicines, Consult a Doctor Online, Book Lab Tests Online etc.,
 As a part of this assignment, you are required to implement the User Interface and its related functionalities for features listed below as user stories. 
 EPIC 1: CUSTOMER LANDING PAGE
@@ -66,4 +65,5 @@ Acceptance Criteria:
 Assumptions for EPIC 2: [User Stories 2.1, 2.2, 2.3]
 •	The product/medicines with relevant details are created and available in a JSON format.
 •	Any other assumptions made can be listed in the documentation
+
 
